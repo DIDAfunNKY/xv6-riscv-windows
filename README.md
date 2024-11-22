@@ -1,22 +1,22 @@
-##install make
+## install make
 
 mingw32-make
 https://osdn.net/projects/mingw/
 
-##install qemu
+## install qemu
 https://qemu.weilnetz.de/w64/
 
 ## install git
 自己百度
 
-##install perl
+## install perl
 https://strawberryperl.com/
 
-##install risc-v64 gcc
+## install risc-v64 gcc
 https://www.nucleisys.com/download.php
 Nuclei RISC-V Embedded Toolchain(Baremetal/RTOS + Newlibc)
 
-##设置系统路径PATH
+## 设置系统路径PATH
 C:\MinGW\bin
 C:\Program Files\Git\cmd
 C:\Program Files\Git\usr\bin
@@ -25,10 +25,10 @@ C:\Strawberry\perl\site\bin
 C:\Strawberry\perl\bin
 C:\Program Files\qemu
 
-##在qemu上启动xv6
+## 在qemu上启动xv6
 mingw32-make qemu
 
-##xv6 readme
+## xv6 readme
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
