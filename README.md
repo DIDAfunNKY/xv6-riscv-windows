@@ -19,11 +19,17 @@ Nuclei RISC-V Embedded Toolchain(Baremetal/RTOS + Newlibc)
 
 ## 设置系统路径PATH
 C:\MinGW\bin
+
 C:\Program Files\Git\cmd
+
 C:\Program Files\Git\usr\bin
+
 C:\Strawberry\c\bin
+
 C:\Strawberry\perl\site\bin
+
 C:\Strawberry\perl\bin
+
 C:\Program Files\qemu
 
 ## 在qemu上启动xv6
