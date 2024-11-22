@@ -1,4 +1,4 @@
-可在WINDOWS上QEMU运行的riscv-xv6，再也不需要虚拟机了，跑得还快
+可在WINDOWS上QEMU运行的riscv-xv6，再也不需要虚拟机了，跑得还快, 可以去release下载编译好的
 ## install make
 
 mingw32-make
